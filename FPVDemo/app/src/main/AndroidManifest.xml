@@ -45,7 +45,7 @@
         <uses-library android:name="com.android.future.usb.accessory" />
         <meta-data
             android:name="com.dji.sdk.API_KEY"
-            android:value="Please enter your App Key here." />
+            android:value="379673d6b76d73fbd3aa6f3f" />
 
         <service android:name="dji.sdk.sdkmanager.DJIGlobalService" >
         </service>
